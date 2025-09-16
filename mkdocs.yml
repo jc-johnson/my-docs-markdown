@@ -1,0 +1,10 @@
+site_name: My User Guides - Markdown
+site_description: User Guides I Created in Markdown
+repo_url: https://github.com/jc-johnson/my-docs-markdown
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md
